@@ -1,4 +1,4 @@
-# Simple Shop Skeleton
+# Java EE Simple Shop Skeleton
 
 ## Requirements 
  - JDK 8
